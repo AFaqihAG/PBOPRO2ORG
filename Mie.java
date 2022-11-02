@@ -20,7 +20,7 @@ public class Mie extends Menu {
     }
 
     public void deskripsiMenu() {
-        System.out.println("Mie adalah mie, bisa dimasak menjadi mie goreng atau mie kuah (tau penjelasannya jelek)");
+        System.out.println("Menu Mie disini dapat dipilih mulai dari Mie goreng, Mie kuah, dan Bakmi. Fresh from wajan hehe ");
     }
 
     public int getHarga() {
