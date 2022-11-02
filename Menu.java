@@ -1,7 +1,3 @@
-abstract class Menu {
-    public Menu() {
-        
-    }
-
+interface Menu {
     public abstract void deskripsiMenu();
 }
