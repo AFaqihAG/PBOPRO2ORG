@@ -3,3 +3,4 @@ itu aja
 Makanan untuk dimakan = benar
 Coba tambah text dari git
 Coba tambah text langsung dari github
+test pull? ke git
