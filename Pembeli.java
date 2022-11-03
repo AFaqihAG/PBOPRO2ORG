@@ -2,6 +2,7 @@ public class Pembeli {
     private String nama;
     private int uang;
     
+    // tes comment dari branch lain
     public Pembeli() {
 
     }
