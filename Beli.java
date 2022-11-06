@@ -8,7 +8,7 @@ public class Beli {
         boolean yesNo = true;
 
         while(yesNo) {
-            System.out.println("Selamat datang di toko anu");
+            System.out.println("Selamat datang di Restoran Mie");
             System.out.println("Disini anda bisa membeli :");
             System.out.println("1. Mie Goreng");
             System.out.println("2. Mie Kuah");
