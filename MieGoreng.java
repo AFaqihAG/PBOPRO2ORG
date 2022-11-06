@@ -1,5 +1,5 @@
 public class MieGoreng extends Mie {
-    private final int[] hargaUkuran = {0, 3000, 7000};
+    private final int[] hargaUkuran = {0, 3000, 7000}; // Kecil, Sedang, Besar
 
     public MieGoreng(String ukuran) {
         super(10000, ukuran);
