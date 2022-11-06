@@ -16,7 +16,7 @@ public class Mie extends Menu {
     }
  
     /**
-     * @return untuk mengembalikan ukuran dari mie
+     * @return ukuran untuk mengembalikan ukuran dari mie
      */
     public String getUkuran() {
         return ukuran;
@@ -34,7 +34,7 @@ public class Mie extends Menu {
     }
 
     /**
-     * @return untuk mengembalikan nilai dari harga
+     * @return harga untuk mengembalikan nilai dari harga
      */
     public int getHarga() {
         return harga;
