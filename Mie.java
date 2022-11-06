@@ -30,7 +30,7 @@ public class Mie extends Menu {
     }
 
     public void deskripsiMenu() {
-        System.out.println("Menu Mie disini dapat dipilih mulai dari Mie goreng, Mie kuah, dan Bakmi. Fresh from wajan hehe ");
+        System.out.println("Menu Mie disini dapat dipilih mulai dari Mie goreng, Mie kuah, dan Bakmi.");
     }
 
     /**
