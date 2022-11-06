@@ -1,5 +1,5 @@
 public class Bakmi extends Mie {
-    private final int[] hargaUkuran = {0, 4000, 8000};
+    private final int[] hargaUkuran = {0, 4000, 8000}; // Kecil, Sedang, Besar
 
     public Bakmi(String ukuran) {
         super(14000, ukuran);
