@@ -1,5 +1,5 @@
 public class MieKuah extends Mie {
-    private final int[] hargaUkuran = {0, 2000, 5000};
+    private final int[] hargaUkuran = {0, 2000, 5000}; // Kecil, Sedang, Besar
 
     public MieKuah(String ukuran) {
         super(12000, ukuran);
