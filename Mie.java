@@ -1,4 +1,4 @@
-public class Mie extends Menu {
+public class Mie implements Menu {
     private int harga;
     private String ukuran;
 

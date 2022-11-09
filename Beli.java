@@ -6,10 +6,11 @@ public class Beli {
         Pembeli pembeli = new Pembeli("Faqih", 1000000);
         int inputMenu;
         boolean yesNo = true;
+        Mie mie = new Mie();
 
         while(yesNo) {
             System.out.println("Selamat datang di Restoran Mie");
-            System.out.println("Disini anda bisa membeli :");
+            mie.deskripsiMenu();
             System.out.println("1. Mie Goreng");
             System.out.println("2. Mie Kuah");
             System.out.println("3. Bakmi");
@@ -51,7 +52,6 @@ public class Beli {
             }
             yesNo = false;
         }
-        
 
         in.close();
     }

@@ -1,3 +1,7 @@
 interface Menu {
-    public abstract void deskripsiMenu();
+    void deskripsiMenu();
+    void setHarga(int harga);
+    int getHarga();
+    void setUkuran(String ukuran);
+    String getUkuran(); 
 }
